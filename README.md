@@ -35,6 +35,7 @@
 ## Contribute:
 This is a guideline I've been following. If you have suggestions on improvong it, please pull a request!
 
+## Licence:
 This work is licensed under a
 [Creative Commons Attribution 4.0 International][cc-by].
 
